@@ -1,1 +1,3 @@
 # Proyecto
+
+El objetivo de este proyecto es...
